@@ -1,0 +1,15 @@
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\bin\Debug\netcoreapp3.1\FractalPeerGrade.exe
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\bin\Debug\netcoreapp3.1\FractalPeerGrade.deps.json
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\bin\Debug\netcoreapp3.1\FractalPeerGrade.runtimeconfig.json
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\bin\Debug\netcoreapp3.1\FractalPeerGrade.runtimeconfig.dev.json
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\bin\Debug\netcoreapp3.1\FractalPeerGrade.dll
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\bin\Debug\netcoreapp3.1\FractalPeerGrade.pdb
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.Form1.resources
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.csproj.GenerateResource.cache
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.AssemblyInfoInputs.cache
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.AssemblyInfo.cs
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.csproj.CoreCompileInputs.cache
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.dll
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.pdb
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.genruntimeconfig.cache
+C:\Users\ksmil\source\repos\FractalPeerGrade\FractalPeerGrade\obj\Debug\netcoreapp3.1\FractalPeerGrade.csprojAssemblyReference.cache
